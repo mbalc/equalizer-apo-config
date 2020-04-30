@@ -1,0 +1,12 @@
+##### V-Shape
+# Bass
+Filter: ON LSC Fc 163.32 Hz Gain 1.8 dB Q 0.9149
+# Subbass / kick
+Filter: ON LSC Fc 48.42 Hz Gain 2 dB Q 0.8292
+# Warmth
+Filter: ON LSC Fc 540.48 Hz Gain 1.6 dB Q 0.6001
+# Lessen load below human hearing range
+Filter: ON LSC 12.2707 dB Fc 11 Hz Gain -13 dB
+Brilliance
+Filter: ON HSC Fc 1949.98 Hz Gain 2 dB Q 0.4455
+Filter: ON HSC Fc 4920.74 Hz Gain 1 dB Q 0.8489

@@ -1,0 +1,13 @@
+Device:      Speakers Realtek High Definition Audio {5c7a7546-660c-4e4a-83e7-32f642fc0967}
+Include: mbalc\akg k702\compensate virtualization.txt
+Include: mbalc\akg k702\v shape.txt
+Include: mbalc\akg k702\hear loss counter.txt
+Preamp: -7.7 dB
+Filter: ON LSC Fc 40.46 Hz Gain 4.8 dB Q 1.0206
+Include: mbalc\prestack.txt
+Include: mbalc\eqstack.txt
+Include: HeSuVi\hesuvi.txt
+VSTPlugin: Library "C:\Program Files\VSTPlugins\vst4free\GFM_psypan.dll" width 0.5 pan 0.556834 x-itd 0.5
+Include:
+Device:    Microphone Realtek High Definition Audio {6863114b-2f2b-493b-99b2-67492a54385a}
+Include: mbalc\mic.txt

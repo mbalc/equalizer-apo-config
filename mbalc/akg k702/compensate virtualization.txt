@@ -1,0 +1,7 @@
+##### Compensate sennheiser 
+Filter: ON PK Fc 5164.52 Hz Gain 4 dB Q 4.5171
+Filter: ON PK Fc 1963.5 Hz Gain 3 dB Q 4.1196
+# Filter: ON PK Fc 272.29 Hz Gain 1.4 dB Q 0.5234
+# Filter: ON PK Fc 14455.4 Hz Gain 3.8 dB Q 1.3516
+Filter: ON PK Fc 5093.66 Hz Gain 0.9 dB Q 5.1152
+# Filter: ON PK Fc 8147.61 Hz Gain 1.4 dB Q 2.8897
