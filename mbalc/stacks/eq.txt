@@ -1,0 +1,5 @@
+Include: ..\akg k702\compensate virtualization.txt
+Include: ..\akg k702\v shape.txt
+Include: ..\akg k702\hear loss counter.txt
+Preamp: -7.7 dB
+Filter: ON LSC Fc 40.46 Hz Gain 4.8 dB Q 1.0206

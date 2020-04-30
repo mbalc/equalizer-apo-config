@@ -1,0 +1,1 @@
+VSTPlugin: Library "C:\Program Files\VSTPlugins\vst4free\GFM_psypan.dll" width 0.5 pan 0.556834 x-itd 0.5
